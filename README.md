@@ -46,7 +46,7 @@ Multi-platform Full Stack, Systems & Mobile Engineer with **18+ years of hands-o
   <code>Gulp</code>,
   <code>HTML5</code>,
   <code>HTMX</code>,
-  <code>InnertiaJS</code>,
+  <code>InertiaJS</code>,
   <code>Pinia</code>,
   <code>Qwik</code>,
   <code>ReactJS</code>,
